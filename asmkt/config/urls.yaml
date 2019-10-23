@@ -1,0 +1,30 @@
+---
+# 下单接口
+
+-
+  # openApi发码, 获取发码链接
+  name: Asmkt_open_api
+  Asmkt_api_url: http://
+  GiftCoupon_path: /GiftCoupon
+
+-
+  # 获取userCouponId, productId
+  name: GiftCoupon_api
+  GiftCoupon_url:
+  Lottery_path: /Activity/Lottery
+
+-
+  # 下单
+  name: SubOrder_api
+  SubOrder_url:
+  SubOrder_path: /Order/SubOrder
+
+-
+  secreykey: 9b2ef12f4bf747fca466e5a45da3c951
+-
+  appId: ce01f096-8bd2-4d9d-a400-08d73727eeb9
+-
+  ActivityId: d8d40708-866a-42c6-602b-08d7117a4079
+-
+  ProductId: c3d73ccb-c9e4-47c0-d401-08d6bbee46e1
+

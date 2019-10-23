@@ -1,0 +1,6 @@
+1.生成时间戳
+2.生成订单号
+3.生成md5
+4.生成aes加密
+5.读写csv文件（sign.csv）
+6.执行all_interface.py
